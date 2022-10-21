@@ -14,4 +14,4 @@ $$
 
 ## Convergence Rate
 
-**Theorem:** Let $f$ be a convex function definied on $\mathbb{R}^n$. The updates of the algorithm guarantee that $$f(x_k)-f^{*} = \mathcal{O}(1/k)$$ 
+**Theorem:** Let $f$ be a convex function definied on $\mathbb{R}^n$. The updates of the algorithm guarante that $$f(x_k)-f^{*} = \mathcal{O}(1/k)$$ 
