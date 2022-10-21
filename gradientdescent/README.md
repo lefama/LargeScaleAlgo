@@ -1,7 +1,7 @@
 # Gradient Descent
 
-Our goal is to get a solution to the problem
+Our goal is to get a solution to the problem $\min f(x)$ where $x\in\mathbb{R}^n$. The algorithm is described as follows:
+$$
+fdfd
+$$
 
-$\min f(x)$
-
-where $x\in\mathbb{R}^n$.
